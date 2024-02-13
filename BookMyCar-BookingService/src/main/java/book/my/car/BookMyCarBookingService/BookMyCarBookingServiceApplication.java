@@ -1,0 +1,13 @@
+package book.my.car.BookMyCarBookingService;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BookMyCarBookingServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BookMyCarBookingServiceApplication.class, args);
+	}
+
+}
